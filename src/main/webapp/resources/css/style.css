@@ -1,0 +1,20 @@
+@charset "ISO-8859-1";
+table {
+	border-collapse: collapse; form { margin : 0 auto;
+	width: 200;
+}
+h1{
+font-family: consolas;
+border:2px solid #73AD21;
+border-radius: 25px;
+margin:0;
+padding: 10px 0;
+}
+ body {
+      background-color: powderblue;
+      
+        margin:auto;
+        width: 50%;
+        border: 3px solid #897878;
+        padding :10px;
+  }
